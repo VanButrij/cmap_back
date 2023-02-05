@@ -1,0 +1,26 @@
+{
+  "name": "cmap_back",
+  "version": "1.0.0",
+  "description": "backend node-js server for competition map application",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanButrij/Competition_Map_Backend.git"
+  },
+  "keywords": [
+    "cmap",
+    "node"
+  ],
+  "author": "Butriy I.A.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VanButrij/Competition_Map_Backend/issues"
+  },
+  "homepage": "https://github.com/VanButrij/Competition_Map_Backend#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
